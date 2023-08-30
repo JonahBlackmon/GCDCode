@@ -3,3 +3,6 @@
     (else (GCD b (modulo a b)))
         )
   )
+  (define test "Hi")
+(display test)
+(newline)
